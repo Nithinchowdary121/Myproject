@@ -1,6 +1,6 @@
 /*GET homepage*/
 const index=(req,res)=>{
-    res.render('index',{title:'23eg106a31'});
+    res.render('index',{'title':'citizen empowerment'});
 };
 module.exports={
     index
